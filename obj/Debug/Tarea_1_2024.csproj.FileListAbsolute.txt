@@ -1,0 +1,7 @@
+C:\Users\adria\source\repos\Tarea_1_2024\Tarea_1_2024\bin\Debug\Tarea_1_2024.exe.config
+C:\Users\adria\source\repos\Tarea_1_2024\Tarea_1_2024\bin\Debug\Tarea_1_2024.exe
+C:\Users\adria\source\repos\Tarea_1_2024\Tarea_1_2024\bin\Debug\Tarea_1_2024.pdb
+C:\Users\adria\source\repos\Tarea_1_2024\Tarea_1_2024\obj\Debug\Tarea_1_2024.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\Tarea_1_2024\Tarea_1_2024\obj\Debug\Tarea_1_2024.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Tarea_1_2024\Tarea_1_2024\obj\Debug\Tarea_1_2024.exe
+C:\Users\adria\source\repos\Tarea_1_2024\Tarea_1_2024\obj\Debug\Tarea_1_2024.pdb
